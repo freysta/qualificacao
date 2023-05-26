@@ -1,0 +1,16 @@
+Nome: a
+Cargo: a
+Salário: R$1.0
+
+Nome: a
+Cargo: a
+Salário: R$1.0
+
+Nome: hn
+Cargo: 5
+Salário: R$2.0
+
+Nome: yes
+Cargo: 9
+Salário: R$5.0
+
